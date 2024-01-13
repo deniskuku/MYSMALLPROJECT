@@ -1,0 +1,1 @@
+void displaySeats(char seats[14][10], char zones[14][10]);

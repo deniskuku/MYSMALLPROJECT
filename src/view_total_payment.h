@@ -1,0 +1,1 @@
+void view_total_payment(char heart, double total, int& ticket_count);

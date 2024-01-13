@@ -1,0 +1,1 @@
+double refund_ticket(double total, TicketSale& sale,int row, int col, char seats[14][10], char zones[14][10]);

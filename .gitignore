@@ -1,0 +1,10 @@
+.emulator_console_auth_token
+adbkey
+adbkey.pub
+analytics.settings
+debug.keystore
+maps.key
+*.img
+*.img.qcow
+.idea/
+emu-*
